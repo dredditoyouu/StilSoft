@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C69B8F04-5EA5-472C-AD86-7FCE1B30264A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StilsoftIRS.WinForms", "src\StilsoftIRS.WinForms\StilsoftIRS.WinForms.csproj", "{8FBD52CF-B23E-4E5F-A1D2-165BD72DA8D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{67ECAC10-CAEF-42F5-ABCB-C2DCE999B389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StilsoftIRS.Tests", "tests\StilsoftIRS.Tests\StilsoftIRS.Tests.csproj", "{C3562411-542E-47A5-B051-FC7885B7C888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FBD52CF-B23E-4E5F-A1D2-165BD72DA8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBD52CF-B23E-4E5F-A1D2-165BD72DA8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBD52CF-B23E-4E5F-A1D2-165BD72DA8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBD52CF-B23E-4E5F-A1D2-165BD72DA8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3562411-542E-47A5-B051-FC7885B7C888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3562411-542E-47A5-B051-FC7885B7C888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3562411-542E-47A5-B051-FC7885B7C888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3562411-542E-47A5-B051-FC7885B7C888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8FBD52CF-B23E-4E5F-A1D2-165BD72DA8D4} = {C69B8F04-5EA5-472C-AD86-7FCE1B30264A}
+		{C3562411-542E-47A5-B051-FC7885B7C888} = {67ECAC10-CAEF-42F5-ABCB-C2DCE999B389}
+	EndGlobalSection
+EndGlobal

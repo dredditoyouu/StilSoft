@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/ezube/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/44fcbad3-524f-46ed-916d-0e0fe7e4f7bc/395fbdad-d789-4a4c-a0d8-4ab725983e8c/skills/docx/**)",
+      "Bash(python scripts/office/unpack.py \"D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт.docx\" unpacked/)",
+      "Bash(python -c \"from pathlib import Path; p = Path\\('D:\\\\\\\\дипломные запросы\\\\\\\\дипломные работы\\\\\\\\ООО СтилСофт.docx'\\); print\\(p.exists\\(\\)\\)\")",
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Bash(C:\\\\Users\\\\ezube\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps\\\\python.exe --version)",
+      "Read(//c/Users/ezube/AppData/Local/Programs/Python//**)",
+      "Bash(ls /c/Python*)",
+      "Read(//c/Users/ezube/AppData/Local/Programs//**)",
+      "Read(//c/Windows/**)",
+      "Read(//c/Users/ezube/**)",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py --version)",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py scripts/office/unpack.py 'D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт.docx' unpacked/)",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py scripts/office/pack.py unpacked/ 'D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт.docx' --original 'D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт.docx')",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py scripts/office/pack.py unpacked/ 'D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт.docx' --validate false)",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py -c ' *)",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py scripts/office/pack.py unpacked/ 'D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт.docx')",
+      "Bash(/c/Users/ezube/AppData/Local/Programs/Python/Launcher/py scripts/office/pack.py unpacked/ 'D:\\\\дипломные запросы\\\\дипломные работы\\\\ООО СтилСофт_fixed.docx')",
+      "Bash(grep -E \"\\\\.cs$\")",
+      "Bash(dotnet build *)",
+      "Bash(powershell -ExecutionPolicy Bypass -NoProfile -File \"D:\\\\дипломные запросы\\\\дипломные работы\\\\программы\\\\wkd3\\\\scripts\\\\build-app.ps1\")"
+    ]
+  }
+}

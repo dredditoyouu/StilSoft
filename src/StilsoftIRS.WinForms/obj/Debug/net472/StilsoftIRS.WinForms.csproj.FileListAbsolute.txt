@@ -1,0 +1,245 @@
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.AssemblyReference.cache
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe.config
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Docs\UserGuide.html
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Database\001_create_schema.sql
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Database\002_seed_data.sql
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.exe.config
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.exe
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.pdb
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Core.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Identity.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ClosedXML.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\DocumentFormat.OpenXml.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ExcelNumberFormat.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Irony.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Data.SqlClient.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Logging.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\SixLabors.Fonts.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Buffers.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ClientModel.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.FileSystem.AccessControl.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.Packaging.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.Data.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.AccessControl.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Permissions.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Principal.Windows.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Encodings.Web.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Json.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ValueTuple.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\XLParser.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\Stilsoft.8F40439F.Up2Date
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe
+C:\Users\rmwor\OneDrive\Рабочий стол\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.pdb
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.pdb
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Docs\UserGuide.html
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Core.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Identity.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ClosedXML.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ExcelNumberFormat.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Irony.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Data.SqlClient.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Abstractions.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Logging.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Tokens.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\SixLabors.Fonts.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Buffers.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ClientModel.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IdentityModel.Tokens.Jwt.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.FileSystem.AccessControl.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.Packaging.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.Data.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.AccessControl.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Permissions.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Json.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ValueTuple.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\XLParser.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\de\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\es\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\fr\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\it\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ja\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ko\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ru\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.AssemblyReference.cache
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.SuggestedBindingRedirects.cache
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe.config
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.CoreCompileInputs.cache
+D:\загрузки\wkd3\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\Stilsoft.8F40439F.Up2Date
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Core.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Identity.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ClosedXML.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ExcelNumberFormat.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Irony.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Data.SqlClient.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Abstractions.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Logging.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Tokens.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\SixLabors.Fonts.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Buffers.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ClientModel.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IdentityModel.Tokens.Jwt.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.FileSystem.AccessControl.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.Packaging.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.Data.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.AccessControl.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Permissions.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Json.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ValueTuple.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\XLParser.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\de\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\es\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\fr\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\it\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ja\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ko\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ru\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.AssemblyReference.cache
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.SuggestedBindingRedirects.cache
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe.config
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.CoreCompileInputs.cache
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\Stilsoft.8F40439F.Up2Date
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.pdb
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Database\001_create_schema.sql
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Database\002_seed_data.sql
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.exe.config
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.exe
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.pdb
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.Forms.Dialogs.IncidentEditDialog.resources
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.Forms.LoginForm.resources
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.Forms.MainForm.resources
+D:\загрузки\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.GenerateResource.cache
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Database\001_create_schema.sql
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Database\002_seed_data.sql
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.exe.config
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.exe
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\StilsoftIRS.pdb
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Core.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Azure.Identity.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ClosedXML.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\DocumentFormat.OpenXml.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ExcelNumberFormat.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Irony.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Data.SqlClient.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Abstractions.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Logging.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\Microsoft.IdentityModel.Tokens.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\SixLabors.Fonts.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Buffers.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ClientModel.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IdentityModel.Tokens.Jwt.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.FileSystem.AccessControl.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.IO.Packaging.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Memory.Data.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.AccessControl.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Cryptography.ProtectedData.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Permissions.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Encodings.Web.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Text.Json.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\System.ValueTuple.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\XLParser.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\de\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\es\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\fr\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\it\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ja\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ko\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\ru\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\bin\Debug\net472\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.AssemblyReference.cache
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.SuggestedBindingRedirects.cache
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe.config
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.Forms.Dialogs.IncidentEditDialog.resources
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.Forms.LoginForm.resources
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.Forms.MainForm.resources
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.GenerateResource.cache
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.WinForms.csproj.CoreCompileInputs.cache
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\Stilsoft.8F40439F.Up2Date
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.exe
+D:\дипломные запросы\дипломные работы\программы\wkd3\src\StilsoftIRS.WinForms\obj\Debug\net472\StilsoftIRS.pdb

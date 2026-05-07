@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\tests\\StilsoftIRS.Tests\\StilsoftIRS.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\src\\StilsoftIRS.WinForms\\StilsoftIRS.WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\src\\StilsoftIRS.WinForms\\StilsoftIRS.WinForms.csproj",
+        "projectName": "StilsoftIRS",
+        "projectPath": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\src\\StilsoftIRS.WinForms\\StilsoftIRS.WinForms.csproj",
+        "packagesPath": "C:\\Users\\ezube\\.nuget\\packages\\",
+        "outputPath": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\src\\StilsoftIRS.WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ezube\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.3, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\tests\\StilsoftIRS.Tests\\StilsoftIRS.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\tests\\StilsoftIRS.Tests\\StilsoftIRS.Tests.csproj",
+        "projectName": "StilsoftIRS.Tests",
+        "projectPath": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\tests\\StilsoftIRS.Tests\\StilsoftIRS.Tests.csproj",
+        "packagesPath": "C:\\Users\\ezube\\.nuget\\packages\\",
+        "outputPath": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\tests\\StilsoftIRS.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ezube\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\src\\StilsoftIRS.WinForms\\StilsoftIRS.WinForms.csproj": {
+                "projectPath": "D:\\дипломные запросы\\дипломные работы\\программы\\wkd3\\src\\StilsoftIRS.WinForms\\StilsoftIRS.WinForms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
